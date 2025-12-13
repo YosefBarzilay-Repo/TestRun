@@ -1,0 +1,5 @@
+{
+  "name": "TestRun",
+  "description": "A modern, desktop-first test automation reporting dashboard featuring run analysis, historical trends, regression comparison, and performance benchmarks.",
+  "requestFramePermissions": []
+}
